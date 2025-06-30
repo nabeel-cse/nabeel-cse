@@ -1,16 +1,26 @@
-## Hi there 👋
+### Assalamu Alaikum 👋 I'm Nabeel Islam
 
-<!--
-**nabeel-cse/nabeel-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 A passionate Computer Science student  
+💻 Learning **DSA in Python**, **ReactJS**, and **Data Science**  
+🧠 Focused on building real-world projects and becoming a better problem-solver  
+🕋 Hafiz-e-Quran | Practicing Muslim | Based in Lucknow, India 🇮🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Current Focus
+- 📘 DSA using Python (CodeStudio, GFG, HackerRank, LeetCode)
+- ⚛️ React projects (blogs, portfolios)
+- 📊 Learning Pandas, NumPy, and other Data Science libraries
+- 💬 Working on spoken and written English
+
+---
+
+### 🛠️ Tech Stack
+`Python` `JavaScript` `React` `HTML` `CSS` `Git` `GitHub` `VS Code`
+
+---
+
+### 📫 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/nabeel-islam-272708292/)) | [Email](nabeel1.cse@gmail.com)
+
+> *"Indeed, with hardship comes ease."* — Qur’an 94:6
